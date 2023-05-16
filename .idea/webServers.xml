@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a49c5385-a2b4-478f-aad5-62870060658d" name="localhost" url="http://localhost/Appointment-Symfony">
+        <fileTransfer mountedRoot="C:\wamp64\www\Appointment-Symfony" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
